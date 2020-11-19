@@ -1,0 +1,89 @@
+.left-sidebar {
+	width: 250px;
+	border-right: 1px solid rgba(0, 0, 0, 0.12);
+	padding: 25px;
+	background: #fff;
+	z-index: 1;
+	position: relative;
+	min-height: 150px;
+}
+
+.main-menu {
+	margin: 10px 0 20px 0;
+}
+
+.main-menu li a {
+	color: rgba(0, 0, 0, 0.54);
+	display: block;
+	padding: 5px 0px;
+	transition: 0.3s;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 20px;
+}
+
+.main-menu li a.active,
+.main-menu li a:hover,
+.main-menu li a:active,
+.main-menu li a:focus {
+	color: #00B0FF;
+}
+
+.main-menu li a i {
+	margin-right: 6px;
+}
+
+.upgrade {
+	background: linear-gradient(229.11deg, #A5FECB -10.7%, #20BDFF 44.69%, #5433FF 100.07%);
+	padding: 15px;
+	color: #fff;
+	border-radius: 8px;
+}
+
+.upgrade a {
+	color: #fff;
+	border: 1px solid #fff;
+	border-radius: 8px;
+	padding: 10px 15px;
+	margin: 0 auto;
+	display: block;
+	text-align: center;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 22px;
+	max-width: 200px;
+}
+
+.upgrade h3 {
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 20px;
+}
+
+.download h3 {
+	font-size: 18px;
+	font-style: normal;
+	font-weight: normal;
+	color: rgba(0, 0, 0, 0.54);
+}
+
+.upgrade p {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 19px;
+}
+
+.download {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 25px 0;
+}
+
+.download a {
+	margin-bottom: 10px;
+}
