@@ -82,7 +82,7 @@ export const Search = () => {
             className="search-cancil"
             onClick={reset}
           >
-            <img src='../img/icon-cross.png' alt=""/>
+            <img src='./img/icon-cross.png' alt=""/>
           </button>
         </form>
       </div>
