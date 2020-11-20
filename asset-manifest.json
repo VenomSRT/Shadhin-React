@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.f9b4ec07.chunk.css",
-    "main.js": "/my-app/static/js/main.662cfeba.chunk.js",
-    "main.js.map": "/my-app/static/js/main.662cfeba.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.7ab8dd24.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.7ab8dd24.js.map",
-    "static/js/2.30713294.chunk.js": "/my-app/static/js/2.30713294.chunk.js",
-    "static/js/2.30713294.chunk.js.map": "/my-app/static/js/2.30713294.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "static/css/main.f9b4ec07.chunk.css.map": "/my-app/static/css/main.f9b4ec07.chunk.css.map",
-    "static/js/2.30713294.chunk.js.LICENSE.txt": "/my-app/static/js/2.30713294.chunk.js.LICENSE.txt",
-    "static/media/SidebarRight.css": "/my-app/static/media/subscription-header-bg.8718654b.jpg"
+    "main.css": "/Shadhin-React/static/css/main.b6ce3d96.chunk.css",
+    "main.js": "/Shadhin-React/static/js/main.662cfeba.chunk.js",
+    "main.js.map": "/Shadhin-React/static/js/main.662cfeba.chunk.js.map",
+    "runtime-main.js": "/Shadhin-React/static/js/runtime-main.c88c3dc1.js",
+    "runtime-main.js.map": "/Shadhin-React/static/js/runtime-main.c88c3dc1.js.map",
+    "static/js/2.30713294.chunk.js": "/Shadhin-React/static/js/2.30713294.chunk.js",
+    "static/js/2.30713294.chunk.js.map": "/Shadhin-React/static/js/2.30713294.chunk.js.map",
+    "index.html": "/Shadhin-React/index.html",
+    "static/css/main.b6ce3d96.chunk.css.map": "/Shadhin-React/static/css/main.b6ce3d96.chunk.css.map",
+    "static/js/2.30713294.chunk.js.LICENSE.txt": "/Shadhin-React/static/js/2.30713294.chunk.js.LICENSE.txt",
+    "static/media/SidebarRight.css": "/Shadhin-React/static/media/subscription-header-bg.8718654b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ab8dd24.js",
+    "static/js/runtime-main.c88c3dc1.js",
     "static/js/2.30713294.chunk.js",
-    "static/css/main.f9b4ec07.chunk.css",
+    "static/css/main.b6ce3d96.chunk.css",
     "static/js/main.662cfeba.chunk.js"
   ]
 }
