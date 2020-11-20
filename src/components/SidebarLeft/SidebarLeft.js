@@ -5,7 +5,7 @@ export const SidebarLeft = () => {
   return (
     <div className="sidebar left-sidebar d-none d-md-block">
       <div className="logo">
-        <a href="index.html"><img src="../../img/logo.png" alt=""/></a>
+        <a href="index.html"><img src="./img/logo.png" alt=""/></a>
       </div>
       <ul className="main-menu">
         <li><a href="index.html" className="active"><i className="fa fa-home"></i> Home</a></li>
@@ -20,8 +20,8 @@ export const SidebarLeft = () => {
       </div>
       <div className="download">
         <h3>Download the App</h3>
-        <a href="#!"><img src="../../img/gp.png" alt=""/></a>
-        <a href="#!"><img src="../../img/as.png" alt=""/></a>
+        <a href="#!"><img src="./img/gp.png" alt=""/></a>
+        <a href="#!"><img src="./img/as.png" alt=""/></a>
       </div>
       <div style={{paddingBottom: "220px"}}></div>
     </div>

@@ -20,7 +20,7 @@ export const Search = () => {
     };
   };
 
-  const delayFunction = debounce(handleInput, 1000);
+  const delayFunction = debounce(handleInput, 1500);
 
   function handleInput(e) {
     setInput(e.target.value.trimLeft().toLowerCase());
@@ -83,12 +83,12 @@ export const Search = () => {
             className="search-cancil"
             onClick={reset}
           >
-            <img src='../img/icon-cross.png' alt=""/>
+            <img src='./img/icon-cross.png' alt=""/>
           </button>
         </form>
       </div>
 
-      {data.length && (
+      {data.length > 0 && (
         <div className="search-reasult">
           {typeof data[0] !== 'string' && (
           <ul>
